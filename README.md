@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 ![cute cato](https://tenor.com/en-GB/view/cat-ice-guy-and-his-cool-female-colleague-ice-guy-nyamero-gif-9431060533264894803.gif) -->
 
 ##### Skils
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
