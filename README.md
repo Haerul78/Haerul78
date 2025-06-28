@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Guys! I'm Haerul🤗
 
 <!--
 **Haerul78/Haerul78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ...
+![cute cato](https://tenor.com/en-GB/view/cat-ice-guy-and-his-cool-female-colleague-ice-guy-nyamero-gif-9431060533264894803.gif)
