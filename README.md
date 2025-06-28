@@ -1,7 +1,7 @@
 ## Hello There!!
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/cat-ice-guy-and-his-cool-female-colleague-ice-guy-nyamero-gif-9431060533264894803.gif" alt="cute cato" width="1000">
+  <img src="https://tenor.com/en-GB/view/ryo-yamada-bocchi-the-rock-shocked-surprised-gif-8679791242391913174.gif" alt="cute cato" width="900">
 </p>
 
 Hey everyone, I'm Haerul! I'm a programmer and informatics student, diving deep into full-stack development and software engineering. Thanks for visiting my profile! 🙂
