@@ -1,8 +1,8 @@
 ## Hello There!!
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://tenor.com/en-GB/view/ryo-yamada-bocchi-the-rock-shocked-surprised-gif-8679791242391913174.gif" alt="cute cato" width="900">
-</p>
+</p> -->
 
 Hey everyone, I'm Haerul! I'm a programmer and informatics student, diving deep into full-stack development and software engineering. Thanks for visiting my profile! 🙂
 
